@@ -2,3 +2,8 @@ Sebutkan jenis-jenis mamalia
 - singa
 - kucing
 - platipus
+
+tambahan mamalia
+- tikus
+- badak
+- kerbau
