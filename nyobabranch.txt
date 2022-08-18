@@ -1,0 +1,4 @@
+Sebutkan jenis-jenis mamalia
+- singa
+- kucing
+- platipus
